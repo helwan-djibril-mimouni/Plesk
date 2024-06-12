@@ -1,7 +1,6 @@
 /* Style the body */
 body {
     font-family: 'Times New Roman', Times, serif;
-    margin: 0;
 }
 
 /* Header/logo Title */
@@ -90,6 +89,10 @@ body {
     background-color: #aaa;
     width: 100%;
     padding: 20px;
+}
+
+#gj{
+    text-align: center;
 }
 
 /* Footer */
